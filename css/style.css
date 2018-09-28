@@ -1,0 +1,93 @@
+@media  (max-width: 768px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 375px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+display: flex;
+margin-left: 29px;
+margin-top: 119px;
+width: 302px;
+height: 302px;
+flex-direction: column;}
+.style1 {
+color: #707070;
+font-family: 'Roboto',serif;
+font-size: 6.1875em;
+margin-left: 236px;
+margin-top: 108px;
+height: 0px;}
+}@media  (min-width: 768px)  and  (max-width: 920px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 768px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+display: flex;
+margin-left: 59px;
+margin-top: 244px;
+width: 618px;
+height: 618px;
+flex-direction: column;}
+.style1 {
+color: #707070;
+font-family: 'Roboto',serif;
+font-size: 12.672em;
+margin-left: 483px;
+margin-top: 221px;
+height: 0px;}
+}@media  (min-width: 920px)  and  (max-width: 1200px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 920px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+display: flex;
+margin-left: 71px;
+margin-top: 292px;
+width: 741px;
+height: 741px;
+flex-direction: column;}
+.style1 {
+color: #707070;
+font-family: 'Roboto',serif;
+font-size: 15.18em;
+margin-left: 579px;
+margin-top: 265px;
+height: 0px;}
+}@media  (min-width: 1200px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 1200px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+display: flex;
+margin-left: 93px;
+margin-top: 381px;
+width: 966px;
+height: 966px;
+flex-direction: column;}
+.style1 {
+color: #707070;
+font-family: 'Roboto',serif;
+font-size: 19.8em;
+margin-left: 755px;
+margin-top: 346px;
+height: 0px;}
+}
